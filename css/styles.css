@@ -498,6 +498,8 @@ color: var(--ocean-cl);
 width: 104px;
 height: 56px;
 fill: currentColor;
+width: 100%;
+height: 100%;
 }
 
 
