@@ -431,6 +431,8 @@ background-color: var(--ocean, #404BBF);
 .customers {
 background-color: var(--white-cl);
 padding: 120px 0;
+width: 100%;
+height: 100%;
 }
 
 .customers-title {
@@ -450,8 +452,6 @@ display: flex;
 gap: 24px;
 align-items: center;
 justify-content: center;
-width: 100%;
-height: 100%;
 }
 
 .customers-item {
